@@ -1,0 +1,88 @@
+{
+  "subjects": [
+    {
+      "id": "lengua",
+      "name": "Lengua",
+      "color": "red",
+      "icon": "book"
+    },
+    {
+      "id": "matematicas",
+      "name": "Matemáticas",
+      "color": "blue",
+      "icon": "calculate"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "color": "green",
+      "icon": "language"
+    },
+    {
+      "id": "social_science",
+      "name": "Social Science",
+      "color": "orange",
+      "icon": "public"
+    },
+    {
+      "id": "natural_science",
+      "name": "Natural Science",
+      "color": "purple",
+      "icon": "eco"
+    }
+  ],
+  "units": [
+    {
+      "id": "lengua_u1",
+      "subjectId": "lengua",
+      "title": "Unidad 1 (P, M, L)"
+    },
+    {
+      "id": "lengua_u2",
+      "subjectId": "lengua",
+      "title": "Unidad 2 (S, T, D, N)"
+    },
+    {
+      "id": "lengua_u3",
+      "subjectId": "lengua",
+      "title": "Unidad 3 (R, H, C)"
+    }
+  ],
+  "topics": [
+    {
+      "unitId": "lengua_u1",
+      "title": "Silabario Letra P",
+      "contentUrl": "https://wordwall.net/es/embed/bc134f27546c49bc8b9d28d457f20335?themeId=65&templateId=25&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u1",
+      "title": "Letra P",
+      "contentUrl": "https://wordwall.net/es/embed/65d5ec4586b64396bf8e559d620d534f?themeId=1&templateId=3&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u1",
+      "title": "Letra M Sonido Inicial",
+      "contentUrl": "https://wordwall.net/es/embed/78410c723c9e4daa9377b84acf8ad192?themeId=65&templateId=30&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u1",
+      "title": "Letra M",
+      "contentUrl": "https://wordwall.net/es/embed/70476c06505c430a84786c297e8fe737?themeId=1&templateId=5&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u1",
+      "title": "Letra L Sonido Inicial",
+      "contentUrl": "https://wordwall.net/es/embed/edefc96d106849dab794245db27c6cee?themeId=1&templateId=46&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u1",
+      "title": "Letra L",
+      "contentUrl": "https://wordwall.net/es/embed/5a312db313ee4182a693c29260a595c4?themeId=1&templateId=5&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u2",
+      "title": "Contiene la letra S",
+      "contentUrl": "https://wordwall.net/es/embed/0b5811b11eac4f5490a92f1088e3cfde?themeId=1&templateId=5&fontStackId=0"
+    }
+  ]
+}
