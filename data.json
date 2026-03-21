@@ -51,6 +51,16 @@
       "id": "english_u2",
       "subjectId": "english",
       "title": "Unit 2: Let's celebrate"
+    },
+    {
+      "id": "matematicas_u1",
+      "subjectId": "matematicas",
+      "title": "Tema 1. Nos divertimos con los números"
+    },
+    {
+      "id": "matematicas_u2",
+      "subjectId": "matematicas",
+      "title": "Tema 2. Vamos a medir"
     }
   ],
   "topics": [
@@ -97,7 +107,52 @@
     {
       "unitId": "english_u2",
       "title": "Birthday Party v2",
-      "contentUrl": "https://wordwall.net/play/24097/818/496"
+      "contentUrl": "https://wordwall.net/embed/play/24097/818/496?ref=oembed"
+    },
+    {
+      "unitId": "english_u2",
+      "title": "Birthday Party Cada oveja con su pareja",
+      "contentUrl": "https://wordwall.net/embed/play/24097/818/190?ref=oembed"
+    },
+    {
+      "unitId": "english_u2",
+      "title": "Cuestionario singular plural",
+      "contentUrl": "https://wordwall.net/embed/play/24335/925/557?ref=oembed"
+    },
+    {
+      "unitId": "english_u2",
+      "title": "Cuestionario singular plural",
+      "contentUrl": "https://wordwall.net/embed/play/24335/925/189?ref=oembed"
+    },
+    {
+      "unitId": "matematicas_u1",
+      "title": "Números 1 al 10",
+      "contentUrl": "https://wordwall.net/es/embed/df897cede9d34c04924a6b89c9f277bd?themeId=41&templateId=22&fontStackId=0"
+    },
+    {
+      "unitId": "matematicas_u1",
+      "title": "Números 1 al 10 Cuestionario",
+      "contentUrl": "https://wordwall.net/es/embed/f9d97f758c804a6fb726b35d2e273eb5?themeId=1&templateId=5&fontStackId=0"
+    },
+    {
+      "unitId": "matematicas_u1",
+      "title": "Mayor menor igual",
+      "contentUrl": "https://wordwall.net/es/embed/927c198500574d0a80d6390299b20ff0?themeId=1&templateId=5&fontStackId=0"
+    },
+    {
+      "unitId": "matematicas_u1",
+      "title": "Sumas",
+      "contentUrl": "https://wordwall.net/es/embed/8d10660406ff421dbe0fafb2f79862c8?themeId=1&templateId=5&fontStackId=0"
+    },
+    {
+      "unitId": "matematicas_u2",
+      "title": "Rueda sumas y restas",
+      "contentUrl": "https://wordwall.net/es/embed/857d09243e514b359fe5728a47160e9a?themeId=1&templateId=8&fontStackId=0"
+    },
+    {
+      "unitId": "matematicas_u2",
+      "title": "Preguntas sumas y restas",
+      "contentUrl": "https://wordwall.net/es/embed/2b1776cb6d994cb4b2c08540764974c8?themeId=21&templateId=69&fontStackId=0"
     }
   ]
 }
