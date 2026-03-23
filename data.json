@@ -48,6 +48,21 @@
       "title": "Unidad 3 (R, H, C)"
     },
     {
+      "id": "lengua_u4",
+      "subjectId": "lengua",
+      "title": "Unidad 4 (B, V, Z, J, G, Y, LL, Ñ, F)"
+    },
+    {
+      "id": "lengua_u5",
+      "subjectId": "lengua",
+      "title": "Unidad 5 (CH, X, K, W)"
+    },
+    {
+      "id": "lengua_u6",
+      "subjectId": "lengua",
+      "title": "Unidad 6, 7, 8 (Pendiente)"
+    },
+    {
       "id": "english_u2",
       "subjectId": "english",
       "title": "Unit 2: Let's celebrate"
@@ -103,6 +118,96 @@
       "unitId": "lengua_u2",
       "title": "Sílabas con S",
       "contentUrl": "https://wordwall.net/es/embed/6ba12662a1964611ae0981ad44a3e1a3?themeId=23&templateId=46&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u2",
+      "title": "Silabarop letra S",
+      "contentUrl": "https://wordwall.net/es/embed/535ffd989f224560b240988ac1266d22?themeId=27&templateId=25&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u2",
+      "title": "Letras T, M, P",
+      "contentUrl": "https://wordwall.net/es/embed/5222235d3ae447f08ebc484c76a0cfc8?themeId=1&templateId=46&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u2",
+      "title": "Qué dibujo comienza por la letra T",
+      "contentUrl": "https://wordwall.net/es/embed/ffdf0826212846ac9337a22993c78d28?themeId=43&templateId=5&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u2",
+      "title": "Letra D - Diagrama con etiquetas",
+      "contentUrl": "https://wordwall.net/es/embed/042fcfa3ace4466fb5fb9b42fc2e9e97?themeId=2&templateId=22&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u2",
+      "title": "Letra D - Cuestionario",
+      "contentUrl": "https://wordwall.net/es/embed/2516e6ef9c3a4a42a6de6fc52f2372bb?themeId=1&templateId=5&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u2",
+      "title": "Palabras con la letra T y D",
+      "contentUrl": "https://wordwall.net/es/embed/4006887be4074fd5813cabaa511e69f7?themeId=1&templateId=46&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u2",
+      "title": "Letra D - Une las parejas",
+      "contentUrl": "https://wordwall.net/es/embed/67ae73cc5cac44a8a14c204fddae5b2b?themeId=1&templateId=3&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u2",
+      "title": "Letra N - Une las parejas",
+      "contentUrl": "https://wordwall.net/es/embed/431d51f9297f4b80b4e99964d23953fa?themeId=41&templateId=3&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u2",
+      "title": "Letra N - Cada oveja con su pareja",
+      "contentUrl": "https://wordwall.net/es/embed/f8a0261b1ef64972a547a0319f2bca8d?themeId=1&templateId=46&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u2",
+      "title": "Letra N - Clasifica",
+      "contentUrl": "https://wordwall.net/es/embed/fea5de5f57b94eb3a92b710f20b28d0f?themeId=1&templateId=2&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u2",
+      "title": "Letra F - Une las parejas",
+      "contentUrl": "https://wordwall.net/es/embed/ac383d5791084bc39ec0a49e7a28e397?themeId=1&templateId=3&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u2",
+      "title": "Letra F - Une las parejas v2",
+      "contentUrl": "https://wordwall.net/es/embed/0237556cf5c2429bb206bd103fa61c76?themeId=1&templateId=3&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u2",
+      "title": "Palabras con la letra F",
+      "contentUrl": "https://wordwall.net/es/embed/7a6dd89a6f5343d8a8d1f1df6653efaa?themeId=1&templateId=38&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u3",
+      "title": "Lectura R inicial fuerte - Cuestionario",
+      "contentUrl": "https://wordwall.net/es/embed/9d9602fed87745d8ba544ec2281eb544?themeId=1&templateId=5&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u3",
+      "title": "Palabras con R fuerte - Anagrama",
+      "contentUrl": "https://wordwall.net/es/embed/7e0e449605a544f0820dd560354c9abd?themeId=1&templateId=38&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u3",
+      "title": "Ordena las palabras con R fuerte",
+      "contentUrl": "https://wordwall.net/es/embed/b281e5059fa54d60aa5effb8f5b333de?themeId=1&templateId=2&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u3",
+      "title": "Palabras con R fuerte - Cartas",
+      "contentUrl": "https://wordwall.net/es/embed/e9380f82df8445a49a5764365caf754b?themeId=42&templateId=70&fontStackId=0"
+    },
+    {
+      "unitId": "lengua_u4",
+      "title": "Memoria Alfabeto",
+      "contentUrl": "https://arbolabcgames.top/L9AB/"
     },
     {
       "unitId": "english_u2",
